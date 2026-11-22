@@ -1,0 +1,14 @@
+# Standalone public repository: ignore new files by default.
+# This does not apply to files Git already tracks or to forced adds.
+*
+!/.gitignore
+!/README.md
+!/SKILL.md
+!/TESTING.md
+!/LICENSE
+!/agents/
+!/agents/openai.yaml
+!/scripts/
+!/scripts/local_backup.py
+!/tests/
+!/tests/test_local_backup.py

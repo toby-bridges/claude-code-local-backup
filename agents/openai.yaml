@@ -1,0 +1,5 @@
+interface:
+  display_name: "Claude Code Local Backup"
+  short_description: "Plan and verify local macOS backups of Claude work"
+policy:
+  allow_implicit_invocation: false
